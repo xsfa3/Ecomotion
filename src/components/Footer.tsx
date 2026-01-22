@@ -15,7 +15,7 @@ export const Footer = () => {
                 <Bus className="h-5 w-5 text-accent-foreground" />
               </div>
               <div>
-                <span className="text-xl font-bold">FreeHosting</span>
+                <span className="text-xl font-bold">Ecomotion</span>
                 <span className="block text-xs text-background/60">DEV Greece</span>
               </div>
             </div>
@@ -52,7 +52,7 @@ export const Footer = () => {
 
         <div className="border-t border-background/20 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-background/60">
-            © 2024 FreeHosting. All rights reserved.
+            © 2024 Ecomotion. All rights reserved.
           </p>
           <div className="flex items-center gap-4 text-sm text-background/60">
             <span>Made with ❤️ in Greece 🇬🇷</span>

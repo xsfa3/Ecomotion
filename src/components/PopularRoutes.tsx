@@ -3,12 +3,12 @@ import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 const popularRoutes = [
-  { from: 'IKEA', to: 'KTEL', duration: '5h 30m', price: '€35', frequency: '1h' },
-  { from: 'Stathmos', to: 'KTEL', duration: '2h 45m', price: '€21', frequency: '30 min' },
-  { from: 'ermou', to: 'Euosmos', duration: '2h 15m', price: '€18', frequency: '1h' },
-  { from: 'Καλαμαριά', to: 'Μετρό', duration: '2h 30m', price: '€19', frequency: '45 min' },
-  { from: 'Κορδελιό', to: 'Σταθμος', duration: '3h 30m', price: '€27', frequency: '1h 30m' },
-  { from: 'Κτελ', to: 'Κατω Τουμπα', duration: '3h 45m', price: '€29', frequency: '2h' },
+  { from: 'IKEA', to: 'KTEL', duration: '1h 12m', price: '€0.60', frequency: '1h' },
+  { from: 'Stathmos', to: 'KTEL', duration: '1h 15m', price: '€0.60', frequency: '30 min' },
+  { from: 'ermou', to: 'Euosmos', duration: '45m', price: '€0.60', frequency: '1h' },
+  { from: 'Καλαμαριά', to: 'Μετρό', duration: '39m', price: '€0.60', frequency: '45 min' },
+  { from: 'Κορδελιό', to: 'Σταθμος', duration: '25m', price: '€0.60', frequency: '1h 30m' },
+  { from: 'Κτελ', to: 'Κατω Τουμπα', duration: '30m', price: '€0.60', frequency: '2h' },
 ];
 
 interface PopularRoutesProps {

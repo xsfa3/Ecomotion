@@ -35,7 +35,7 @@ const translations: Translations = {
   
   // Hero
   'hero.title': { en: 'Travel Across Greece', el: 'Ταξιδέψτε σε όλη την Ελλάδα', de: 'Reisen Sie durch Griechenland' },
-  'hero.subtitle': { en: 'Find your route, check timetables, and book KTEL bus tickets instantly', el: 'Βρείτε το δρομολόγιό σας, ελέγξτε τα ωράρια και κλείστε εισιτήρια DEV', de: 'Finden Sie Ihre Route, prüfen Sie Fahrpläne und buchen Sie KTEL-Tickets' },
+  'hero.subtitle': { en: 'Find your route, check timetables, and book Dev bus tickets instantly', el: 'Βρείτε το δρομολόγιό σας, ελέγξτε τα ωράρια και κλείστε εισιτήρια DEV', de: 'Finden Sie Ihre Route, prüfen Sie Fahrpläne und buchen Sie -Tickets' },
   
   // Search
   'search.from': { en: 'From', el: 'Από', de: 'Von' },
@@ -45,10 +45,10 @@ const translations: Translations = {
   'search.findRoutes': { en: 'Find Routes', el: 'Αναζήτηση', de: 'Suchen' },
   'search.passengers': { en: 'Passengers', el: 'Επιβάτες', de: 'Passagiere' },
   'search.noResults': { en: 'No routes found. Try different cities.', el: 'Δεν βρέθηκαν δρομολόγια. Δοκιμάστε άλλες πόλεις.', de: 'Keine Routen gefunden.' },
-  'search.findNearestKTEL': { en: 'Find Nearest KTEL Station', el: 'Βρείτε τον Πλησιέστερο Σταθμό DEV', de: 'Nächste KTEL-Station finden' },
-  'search.nearestKTELDesc': { en: 'Get directions to walk or cycle to your nearest KTEL bus station', el: 'Λάβετε οδηγίες για να περπατήσετε ή να ποδηλατήσετε στον πλησιέστερο σταθμό DEV', de: 'Wegbeschreibung zur nächsten KTEL-Station' },
+  'search.findNearest': { en: 'Find Nearest  Station', el: 'Βρείτε τον Πλησιέστερο Σταθμό DEV', de: 'Nächste -Station finden' },
+  'search.nearestDesc': { en: 'Get directions to walk or cycle to your nearest  bus station', el: 'Λάβετε οδηγίες για να περπατήσετε ή να ποδηλατήσετε στον πλησιέστερο σταθμό DEV', de: 'Wegbeschreibung zur nächsten -Station' },
   'search.getDirections': { en: 'Get Directions on Google Maps', el: 'Οδηγίες στο Google Maps', de: 'Wegbeschreibung auf Google Maps' },
-  'search.orSelectStation': { en: 'Or select a major KTEL station:', el: 'Ή επιλέξτε έναν μεγάλο σταθμό DEV:', de: 'Oder wählen Sie eine KTEL-Station:' },
+  'search.orSelectStation': { en: 'Or select a major  station:', el: 'Ή επιλέξτε έναν μεγάλο σταθμό DEV:', de: 'Oder wählen Sie eine -Station:' },
   
   // Timetable
   'timetable.departure': { en: 'Departure', el: 'Αναχώρηση', de: 'Abfahrt' },
